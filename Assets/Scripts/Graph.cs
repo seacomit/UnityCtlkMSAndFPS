@@ -11,6 +11,9 @@ public class Graph : MonoBehaviour
     [SerializeField]
     FunctionLibrary.FunctionName function;
 
+    [SerializeField, Min(0f)]
+    float functionDuration = 1f;
+
     Transform[] points;
 
     void Awake()
