@@ -1,6 +1,8 @@
 # UnityCtlkMSAndFPS
 My code for: Catlike Coding - MS and FPS - https://catlikecoding.com/unity/tutorials/basics/measuring-performance/
 
+https://github.com/seacomit/UnityCtlkMSAndFPS/assets/86527888/bb215cd4-97a4-4f68-b64e-c1d97f31164f
+
 https://github.com/seacomit/UnityCtlkMSAndFPS/assets/86527888/5e1668b4-8d48-497e-ad55-6762e923afc1
 
 ![unity_frame_rate_ui](https://github.com/seacomit/UnityCtlkMSAndFPS/assets/86527888/00247a3e-f937-4e30-9c9d-55d77b045ef1)
